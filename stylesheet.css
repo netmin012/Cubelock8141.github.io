@@ -60,14 +60,14 @@ a {
 
 .try {
   padding: 8px 24px;
-  color: white;
+  color: green;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
   text-align: center;
 }
 
-.try:hover {
+.btn:hover {
   opacity: 1;
 }
 
