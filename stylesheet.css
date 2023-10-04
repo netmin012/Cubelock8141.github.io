@@ -58,7 +58,7 @@ a {
   background-color: #55acee;
 }
 
-.btn {
+.try {
   padding: 8px 24px;
   color: white;
   display: inline-block;
@@ -67,7 +67,7 @@ a {
   text-align: center;
 }
 
-.btn:hover {
+.try:hover {
   opacity: 1;
 }
 
